@@ -1,6 +1,6 @@
 ## :cherry_blossom: Olá, é um prazer te ter aqui! Me chamo Rebeca. 
 <div align="center">
-          <img src="https://i1.wp.com/garotasnerds.com/wp-content/uploads/2018/05/gato.gif?resize=500%2C288" alt="cerejeiragif">
+<img src="https://i1.wp.com/garotasnerds.com/wp-content/uploads/2018/05/gato.gif?resize=500%2C288" alt="cerejeiragif">
 </div>
 
 ##### Pixel Art por: Yuuta Toyoi.
@@ -21,7 +21,7 @@
 </div>
          
 <div align="end">
-          <img src="https://i.pinimg.com/originals/6c/49/01/6c4901a02c1b54a728980d55c3f2e179.gif" alt="blossomcatgif">
+<img src="https://i.pinimg.com/originals/6c/49/01/6c4901a02c1b54a728980d55c3f2e179.gif" alt="blossomcatgif">
 </div>
 
 
