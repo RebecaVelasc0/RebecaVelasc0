@@ -1,5 +1,5 @@
 ## :cherry_blossom: Olá, é um prazer te ter aqui! Me chamo Rebeca. 
-<div align="center">
+<div align="start">
 <img src="https://i1.wp.com/garotasnerds.com/wp-content/uploads/2018/05/gato.gif?resize=500%2C288" alt="cerejeiragif">
 </div>
 
@@ -15,8 +15,15 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" width="50" height="50" />
-##        
-<div align="end">
+## 
+
+<div>
+<a href="https://github.com/RebecaVelasc0">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RebecaVelasc0&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+         
+         
+<div align="center">
 <img src="https://i.pinimg.com/originals/6c/49/01/6c4901a02c1b54a728980d55c3f2e179.gif" alt="blossomcatgif">
 </div>
 
