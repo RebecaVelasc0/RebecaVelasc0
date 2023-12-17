@@ -7,7 +7,7 @@
 
 ## :cherry_blossom: Ocupações: 
 ### • Sou bacharelanda em Engenharia de Software.
-### • Cursando Técnico em Informática para Internet. 
+### • Sou Técnica em Informática para Internet. 
 ## :cherry_blossom: Tecnologias que estou aprendendo:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40"/>
