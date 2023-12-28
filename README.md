@@ -16,11 +16,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
 
 ## 
-
-<div>
-<a href="https://github.com/RebecaVelasc0">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RebecaVelasc0&layout=compact&langs_count=7&theme=dracula"/>
-</div>
          
          
 <div align="center">
