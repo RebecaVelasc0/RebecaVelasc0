@@ -1,5 +1,5 @@
 <p align="start">
- <a href="https://rebecavelasc0.github.io/PORTFOLIO/" target="_blank" ><img src="elements/readmegithubrebeca.gif" alt="readme-rebeca" width="532px" heigth="532px"></a>
+ <a href="https://rebecavelasc0.github.io/PORTFOLIO/" target="_blank" ><img src="elements/readmerebecavelasco.gif" alt="readme-rebeca" width="532px" heigth="532px"></a>
 </p>
 
 #### ♡ Bacharelanda em Engenharia de Software 
