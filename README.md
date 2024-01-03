@@ -1,5 +1,5 @@
 <p align="start">
- <a href="https://rebecavelasc0.github.io/PORTFOLIO/" target="_blank" > <img src="elements/readmegithubrebeca.gif" alt="Descrição do GIF" width="648" height="648" border-radius="50%"></a>
+ <a href="https://rebecavelasc0.github.io/PORTFOLIO/" target="_blank" ><img src="elements/readmegithubrebeca.gif" alt="readme-rebeca"></a>
 </p>
 
 
