@@ -1,5 +1,5 @@
 <p align="start">
-<img src="elements/readmerebecavelasco.gif" alt="readme-rebeca" width="532px" heigth="532px">
+<img src="elements/readmerebecavelasco.gif" alt="readme-rebeca" width="648px" heigth="648px">
 </p>
 
 ### ♡ Bacharelanda em Engenharia de Software
