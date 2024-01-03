@@ -2,6 +2,9 @@
  <a href="https://rebecavelasc0.github.io/PORTFOLIO/" target="_blank" ><img src="elements/readmegithubrebeca.gif" alt="readme-rebeca" width="532px" heigth="532px"></a>
 </p>
 
+#### ♡ Bacharelanda em Engenharia de Software 
+#### ♡ Técnica em Informática para Internet
+#### ♡ 21 anos
 
 <div align="start">
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
