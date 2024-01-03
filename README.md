@@ -1,10 +1,11 @@
 <p align="start">
- <a href="https://rebecavelasc0.github.io/PORTFOLIO/" target="_blank" ><img src="elements/readmerebecavelasco.gif" alt="readme-rebeca" width="532px" heigth="532px"></a>
+<img src="elements/readmerebecavelasco.gif" alt="readme-rebeca" width="532px" heigth="532px">
 </p>
 
 ### ♡ Bacharelanda em Engenharia de Software
 ### ♡ Técnica em Informática para Internet
 <br>
+
 <div align="start">
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40"/>
@@ -19,6 +20,8 @@
  <a href="www.linkedin.com/in/rebeca-velasco-45088a205" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
  <a href = "https://criarmeulink.com.br/u/1704298590" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div>
+
+<a href="https://rebecavelasc0.github.io/PORTFOLIO/" target="_blank">♡ Portfólio</a>
 
 ## 
          
