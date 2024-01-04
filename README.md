@@ -15,19 +15,15 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg"  width="90" height="90"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" width="90" height="90"/>
           
-
 </div>
 <br>
 <div align="start">
  <a href="https://www.instagram.com/v_elascc?igsh=MWNtODZ3ZWVqNGI2dg==" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
  <a href="www.linkedin.com/in/rebeca-velasco-45088a205" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
  <a href = "https://criarmeulink.com.br/u/1704298590" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href = "https://rebecavelasc0.github.io/PORTFOLIO/" target="_blank"><img src="https://img.shields.io/badge/-Portif%C3%B3lio-s943?style=for-the-badge&logo=Color=white%22"></a>
 </div>
 
-<a href="https://rebecavelasc0.github.io/PORTFOLIO/" target="_blank">♡ Portfólio</a>
-
-## 
-         
 
 
 
