@@ -10,7 +10,7 @@
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-<br><br>
+<br>
 
 <div align="start">
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="60" height="60" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="60" height="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" height="60"/>
@@ -22,9 +22,13 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" width="90" height="90"/>
           
 </div>
+<br>
+<p align="start">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RebecaVelasc0&layout=compact&theme=synthwave">
+</p>
 
-<br><br><br>
-<div align="start">
+<br>
+<div align="center">
  <a href="www.linkedin.com/in/rebeca-velasco-45088a205" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
  <a href = "https://criarmeulink.com.br/u/1704298590" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
  <a href = "https://rebecavelasc0.github.io/PORTFOLIO/" target="_blank"><img src="https://img.shields.io/badge/-Portf%C3%B3lio-s943?style=for-the-badge&logo=Color=white%22"></a>
