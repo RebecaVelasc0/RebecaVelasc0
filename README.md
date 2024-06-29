@@ -1,40 +1,7 @@
-<p align="start">
-<img src="elements/readmerebecavelasco.gif" alt="readme-rebeca" width="648px" heigth="648px">
-</p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=F722DD&center=true&random=false&width=435&height=60&lines=Ol%C3%A1%2C+sou+Rebeca!+;%C3%89+muito+bom+te+ter+aqui+%3A))](https://git.io/typing-svg)
 
-<br>
 
-## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Estudos
-### ♡ Bacharelanda em Engenharia de Software  
-### ♡ Técnica em Informática para Internet
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
-
-<br>
-
-<div align="start">
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="60" height="60" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="60" height="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" height="60"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="60" height="60"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="60" height="60"/> </br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60" height="60"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="60" height="60"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg"  width="90" height="90"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" width="90" height="90"/>
-          
-</div>
-<br>
-<p align="start">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RebecaVelasc0&layout=compact&theme=synthwave">
-</p>
-
-<br>
-<div align="center">
- <a href="www.linkedin.com/in/rebeca-velasco-45088a205" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
- <a href = "https://criarmeulink.com.br/u/1704298590" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
- <a href = "https://rebecavelasc0.github.io/PORTFOLIO/" target="_blank"><img src="https://img.shields.io/badge/-Portf%C3%B3lio-s943?style=for-the-badge&logo=Color=white%22"></a>
-</div>
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7A0EDF&height=120&section=footer"/>
 
 
 
